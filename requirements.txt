@@ -1,0 +1,10 @@
+certifi==2020.4.5.1
+cffi==1.14.0
+gevent==1.4.0
+greenlet==0.4.15
+pycparser==2.20
+pyftpdlib==1.5.6
+python-engineio==3.9.3
+python-socketio==4.3.1
+six==1.14.0
+wincertstore==0.2
